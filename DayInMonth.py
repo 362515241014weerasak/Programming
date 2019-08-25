@@ -4,6 +4,7 @@
 # In[17]:
 
 
+#นายวีระศักดิ์ วงษ์ภู่งาม 362515241014 EE36241N
 month = int(input("Fill out month :"))
 year = int (input("Fill out year :")) 
 years = year-543
