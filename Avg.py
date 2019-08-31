@@ -4,6 +4,7 @@
 # In[9]:
 
 
+# นาย วีระศักดิ์ วงษ์ภู่งาม 362515241014 EE36241N
 sum = 0
 count = 0
 n = float(input("enter number"))
