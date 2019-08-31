@@ -4,6 +4,7 @@
 # In[8]:
 
 
+# นาย วีระศักดิ์ วงษ์ภู่งาม 362515241014 EE36241N
 import math
 x = float(input())
 x = math.radians(x%360)
