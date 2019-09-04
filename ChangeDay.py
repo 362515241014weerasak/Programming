@@ -4,6 +4,7 @@
 # In[8]:
 
 
+## นาย วีระศักดิ์ วงษ์ภู่งาม 362515241014 EE36241N
 mm,dd,yyyy = (str(e) for e in input().split())
 if mm == "01" :
     print(dd, "JAN", yyyy)
