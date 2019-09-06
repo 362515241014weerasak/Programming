@@ -1,3 +1,4 @@
+# นาย วีระศักดิ์ วงษ์ภู่งาม 362515241014 EE36241N
 string=input("Enter string:")
 count1=0
 count2=0
